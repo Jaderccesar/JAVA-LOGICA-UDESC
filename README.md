@@ -9,10 +9,7 @@ Exercícios propostos nas aulas de introdução ao desenvolvimento de software e
 1. **Escreva um programa que leia um número e informe se ele é divisível por 10, por 5 ou por 2 ou se não é divisível por nenhum deles.**
 
 2. **Construa um programa para determinar se o indivíduo está com um peso favorável.**  
-   Essa situação é determinada através do IMC (Índice de Massa Corpórea), que é definido como a relação entre o peso (PESO) e o quadrado da Altura (ALTURA) do indivíduo. Ou seja, a situação do peso é determinada pela fórmula:  
-   \[
-   \text{IMC} = \frac{\text{peso}}{\text{altura}^2}
-   \]
+   Essa situação é determinada através do IMC (Índice de Massa Corpórea), que é definido como a relação entre o peso (PESO) e o quadrado da Altura (ALTURA) do indivíduo. Ou seja, a situação do peso é determinada pela fórmula: peso/(altura x altura)
    A tabela de referência de pesos é dada conforme segue:
 
    - **IMC abaixo de 18,5**: Abaixo do peso
