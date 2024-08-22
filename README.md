@@ -89,7 +89,7 @@ Faça um programa que leia o peso dos peixes trazidos por um pescador e calcule 
 
 ---
 
-## Lista 2 - Estruturas de Repetição
+## Lista 2 - Estruturas Condicionais 2
 
 ### Exercícios
 
