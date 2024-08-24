@@ -11,7 +11,7 @@ public class Exercise4 {
 		int maior = 0;
 		int menor = 999999999;
 		int soma = 0;
-		
+
 		for (int i = 0; i < 10; i++) {
 
 			System.out.println("Informe o número: ");
@@ -29,10 +29,10 @@ public class Exercise4 {
 		}
 
 		double media = soma / 10;
-		
+
 		System.out.println("O maior número informado é: " + maior);
 		System.out.println("O menor número informado é: " + menor);
-		System.out.println("A média dos número lidos é: "+ media);
+		System.out.println("A média dos número lidos é: " + media);
 
 		s.close();
 	}
