@@ -28,6 +28,8 @@ public class Exercise6 {
 			System.out.println("O número informado não representa nenhum dia da semana.");
 		}
 
+		s.close();
+
 	}
 
 }

@@ -20,6 +20,8 @@ public class Exercise4 {
 			System.out.println("Valor inválido!");
 		}
 
+		s.close();
+
 	}
 
 }

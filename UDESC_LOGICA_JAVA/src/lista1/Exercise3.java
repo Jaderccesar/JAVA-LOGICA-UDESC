@@ -25,6 +25,8 @@ public class Exercise3 {
 			System.out.println("Valor inválido!");
 		}
 
+		s.close();
+
 	}
 
 }

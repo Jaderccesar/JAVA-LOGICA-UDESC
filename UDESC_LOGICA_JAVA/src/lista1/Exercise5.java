@@ -108,5 +108,7 @@ public class Exercise5 {
 		if (verificado == 1) {
 			System.out.println("Nessa refeição você comeu " + calorias + " calorias");
 		}
+
+		s.close();
 	}
 }

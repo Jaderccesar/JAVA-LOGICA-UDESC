@@ -25,6 +25,8 @@ public class Exercise10 {
 			System.out.println("Você não possuiu nenhuma multa");
 		}
 
+		s.close();
+
 	}
 
 }

@@ -35,6 +35,8 @@ public class Exercise8 {
 
 		}
 
+		s.close();
+
 	}
 
 }

@@ -23,26 +23,28 @@ public class Exercise9 {
 		System.out.println("Os números maiores que a média são: ");
 
 		if (numero1 > media) {
-			System.out.println("O primeiro número: "+numero1);
+			System.out.println("O primeiro número: " + numero1);
 		}
 
 		if (numero2 > media) {
-			System.out.println("O segundo número: "+numero2);
+			System.out.println("O segundo número: " + numero2);
 		}
 
 		if (numero3 > media) {
-			System.out.println("O terceiro número: "+numero3);
+			System.out.println("O terceiro número: " + numero3);
 		}
 
 		if (numero4 > media) {
-			System.out.println("O quarto número: "+numero4);
+			System.out.println("O quarto número: " + numero4);
 		}
 
 		if (numero5 > media) {
-			System.out.println("O quinto Número: "+numero5);
+			System.out.println("O quinto Número: " + numero5);
 		}
 
 		System.out.println("E a média é: " + media);
+
+		s.close();
 
 	}
 
